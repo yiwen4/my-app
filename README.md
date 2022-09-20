@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Creating a new branch is quick and simple.
+Git is a free software ...
